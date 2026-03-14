@@ -1,0 +1,60 @@
+<scheme name="Oceanic" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">2025.3.2.6</property>
+    <property name="originalScheme">Oceanic</property>
+  </metaInfo>
+  <colors>
+    <option name="CARET_ROW_COLOR" value="212B30" />
+    <option name="GUTTER_BACKGROUND" value="263238" />
+    <option name="LINE_NUMBERS_COLOR" value="37474F" />
+    <option name="SELECTION_BACKGROUND" value="37474F" />
+    <option name="TEARLINE_COLOR" value="263238" />
+  </colors>
+  <attributes>
+    <option name="DEFAULT_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="546e7a" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="82aaff" />
+      </value>
+    </option>
+    <option name="DEFAULT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="80cbc4" />
+      </value>
+    </option>
+    <option name="DEFAULT_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="c792ea" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="546e7a" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="f78c6c" />
+      </value>
+    </option>
+    <option name="DEFAULT_STRING">
+      <value>
+        <option name="FOREGROUND" value="c3e88d" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="b0bec5" />
+        <option name="BACKGROUND" value="263238" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
